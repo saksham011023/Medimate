@@ -4,3 +4,4 @@ langchain_huggingface
 faiss-cpu
 pypdf
 dotenv
+streamlit
